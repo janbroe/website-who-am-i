@@ -80,6 +80,9 @@ p {
   background: linear-gradient(to right, #9c27b0, #8ecdff);
 }
 
+.space {
+  width: 100%;
+}
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   .content {
